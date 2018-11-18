@@ -1,0 +1,81 @@
+<style>
+div.picture{text-align: right;
+}
+#sss{
+  position: relative;left: 690px;
+}
+div.b1{
+padding-top: 100px;
+padding-bottom:100px;
+border: 7px solid red ;
+background-color: lightgray;
+margin-top: 800px;
+margin-right: 500px;
+margin-left: 300px;
+font:lucida;
+font-size: 22px;
+
+}
+div.b2{
+padding-top: 100px;
+padding-bottom:100px;
+border: 7px solid red ;
+background-color: lightgray;
+margin-top: 800px;
+margin-right: 500px;
+margin-left: 300px;
+font:lucida;
+font-size: 22px;
+}
+div.b3{
+padding-top: 100px;
+padding-bottom:100px;
+border: 7px solid red ;
+background-color: lightgray;
+margin-top: 800px;
+margin-right: 500px;
+margin-left: 300px;
+font:lucida;
+font-size: 22px;
+}
+a:link{
+  text-decoration: none;
+}
+body{background-image: url("wood2.jpg");
+      background-attachment: fixed;
+      background-repeat:no-repeat;
+      background-size: cover;
+      text-decoration: none;
+    }
+h1{border-style:double;
+  border-right-width:100px;
+  border-left-width: 100px;
+  border-top-width: 100px;
+  border-color: red;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: : 150px;
+  margin-bottom: 20px;
+}
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  background-color: lightgray;
+}
+.flex-container>div{
+  background-color:red;
+  width: 372px;
+  margin:35px;
+  text-align: center;
+  padding:30px;
+  line-height: 28px;
+  font-style: italic;
+  font-size: 30px;
+}
+p{margin: 50px;
+  font-style: arial;
+  font-size:30px ;
+  border-left: 10px double red;
+  text-decoration: none;
+}
+</style>
